@@ -1,0 +1,23 @@
+{
+  "name": "ultimate-firebase-start",
+  "version": "1.0.0",
+  "description": "a ultimate demo for firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"hello test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hanhan9449/ultimate-firebase-demo.git"
+  },
+  "keywords": [
+    "firebase",
+    "demo"
+  ],
+  "author": "hanhan9449",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanhan9449/ultimate-firebase-demo/issues"
+  },
+  "homepage": "https://github.com/hanhan9449/ultimate-firebase-demo#readme"
+}
